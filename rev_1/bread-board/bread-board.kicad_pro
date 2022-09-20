@@ -468,6 +468,10 @@
     [
       "7751d4be-3744-47db-928c-9bd2e2317958",
       "Input ports and power supplies"
+    ],
+    [
+      "c7faf4d1-76bc-4fa6-810e-7ccac7c7c0be",
+      "Output ports"
     ]
   ],
   "text_variables": {}
